@@ -1,0 +1,19 @@
+<html>
+  <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-216046732-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-216046732-1');
+</script>
+
+  </head>
+  <body>
+
+  </body>
+</html>
+
+<!-- https://wrozyna.notion.site/Minimum-und-Maximum-hervorheben-b0078659dca241079a77597c3b5c81b6 -->
